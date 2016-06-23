@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/sjsrey/gds-binder)
+
 # Install howto
 
 The materials for the workshop and all software packages have been tested on
